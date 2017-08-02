@@ -1,0 +1,11 @@
+pointer f;
+float d = 4;
+public int ook() {
+  int i = 0;
+  int j = 0;
+  f = [7];
+  while (i < 6) { f[i] = d; i = i + 1; }
+  f[i] = d*d;
+  while (j < 7) { f[j]! j = j + 1; }
+}
+

@@ -1,0 +1,5 @@
+public int ook() {
+  int x = 0;
+  while (x < 30) { x!! x = x + 1; }
+}
+

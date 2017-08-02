@@ -1,0 +1,5 @@
+int g(string n)
+int f(string s) = 10 { g(s); }
+int g(string n) = 14 { n! }
+public int ook() { f("ola")! }
+

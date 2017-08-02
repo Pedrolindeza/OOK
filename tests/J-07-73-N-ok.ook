@@ -1,0 +1,6 @@
+/* scope */
+void f() { int zu = 3; zu; zu! }
+public int ook() {
+  f();
+}
+

@@ -1,0 +1,6 @@
+int f(int i) {
+  if (i == 0) f = 0; else { f = f(i-1) + i; return }
+  f = 9;
+}
+public int ook() { f(3)! }
+

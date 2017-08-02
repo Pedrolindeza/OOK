@@ -1,0 +1,6 @@
+public int ook() {
+   if (0) "KO"!
+   else if (1) "elif"!
+   else "OK"!
+}
+

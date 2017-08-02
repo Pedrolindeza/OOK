@@ -1,0 +1,3 @@
+float f(int x, float y) { f = y + x; }
+public int ook() { f(3, 10)! f(2,3)! }
+

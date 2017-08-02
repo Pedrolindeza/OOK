@@ -1,0 +1,6 @@
+int x;
+public int ook() {
+  x = 1;
+  while (x <= 3) { x! x = x + 1; }
+}
+

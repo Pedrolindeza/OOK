@@ -1,0 +1,15 @@
+public int ook() {
+  int x = 1;
+  int y = 1;
+  while (y <= 3) {
+    while (x <= 6) {
+      if (y % 2 == 1) {
+        y = y + 1;
+        next;
+      } else x!
+      x = x + 1;
+    }
+    y = y + 1;
+  }
+}
+

@@ -1,0 +1,7 @@
+public int x = 10;
+void f() { int x = 3; x! }
+public int ook() {
+  f();
+  x!
+}
+

@@ -1,0 +1,16 @@
+pointer f;
+public int ook() {
+  int n = 4;
+  int i = 0;
+  int j = 0;
+  int k = 0;
+  int l = 0;
+  pointer f = null;
+  f = [n];
+  while (i < n) { f[i] = 2; i = i + 1; }
+  while (j < n) { f[j]! j = j + 1; }
+  "\n"!
+  while (k < n) { f[k] = 6/f[k]; k = k + 1; }
+  while (l < n) { f[l]! l = l + 1; }
+}
+

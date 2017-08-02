@@ -1,0 +1,5 @@
+void f() { "ola"! }
+public int ook() {
+  f();
+}
+

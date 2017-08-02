@@ -1,0 +1,3 @@
+int pi() { pi = 314; }
+public int ook() { pi()! }
+

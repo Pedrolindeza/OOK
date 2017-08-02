@@ -1,0 +1,3 @@
+float f(float y) { f = y; }
+public int ook() { f(10)! f(2)! }
+

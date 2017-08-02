@@ -1,0 +1,6 @@
+void f()
+void f() { int x = 3; x! }
+public int ook() {
+  f();
+}
+

@@ -1,0 +1,6 @@
+public float main(pointer p) { main = p[0]; }
+public int ook() {
+  float r = 6.1E1;
+  main(r?)!
+}
+

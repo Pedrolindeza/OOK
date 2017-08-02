@@ -1,0 +1,7 @@
+public int ook() {
+  float r = 6.1E1;
+  pointer p = null;
+  p = r?;
+  p[0]!
+}
+
